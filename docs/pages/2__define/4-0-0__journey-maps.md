@@ -6,3 +6,7 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
+
+## Journey Map 1
+
+## Journey Map 2

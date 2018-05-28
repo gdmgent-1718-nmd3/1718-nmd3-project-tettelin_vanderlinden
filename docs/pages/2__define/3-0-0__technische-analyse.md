@@ -6,3 +6,7 @@ published: true
 # ─────────────────────
 title: Technische Analyse
 ---
+
+## Smartwatch - Samsung Gear S3 Classic
+
+## Smartphone - 
