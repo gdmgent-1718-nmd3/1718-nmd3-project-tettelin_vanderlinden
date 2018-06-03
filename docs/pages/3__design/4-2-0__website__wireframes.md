@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+<img width="900px" src="../../../images/webdesign_wireframe.png">
