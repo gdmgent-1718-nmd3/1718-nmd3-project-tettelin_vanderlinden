@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+
+Het is een onepager.
