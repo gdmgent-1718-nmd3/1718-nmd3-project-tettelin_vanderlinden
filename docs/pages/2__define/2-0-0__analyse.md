@@ -7,9 +7,9 @@ published: true
 title: Analyse
 ---
 
-## Intervieuws
+## Interviews
 
-### De geintervieuwden
+### De geïnterviewden
 
 geïnterviewden |
 ---------------|
@@ -21,7 +21,7 @@ Hans           |
 ===============|
 {:.table}
 
-### Vragenlijst intervieuw
+### Vragenlijst interview
 
 - Hoe vaak bezoek je musea? Waarom wel/niet?
   - Elke maand
@@ -72,7 +72,7 @@ Hans           |
   - Voor foto's, extra info op google, whatsappen en sms
   - Die ligt vaak nog in mijn auto of zit in mijn zak.
 
-### Vragenlijst intervieuw - specifieke vragen
+### Vragenlijst interview - specifieke vragen
 
 - Heb je ooit al een app gebruikt in een musea?
   - Nee
