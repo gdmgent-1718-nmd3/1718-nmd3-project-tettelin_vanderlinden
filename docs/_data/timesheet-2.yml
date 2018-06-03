@@ -3,26 +3,38 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 2.75
+  task: Analyse
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Museum bezoek
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 2.00
+  task: Interviews
 -
   time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: Journey map
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 5.00
+  task: Concept
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 3.75
+  task: Moodboard en ideaboard
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Pitch en presentatie
+-
+  time: 5.00
+  task: Stiletyles
+-
+  time: 4.75
+  task: Sitemap
+-
+  time: 10.25
+  task: Wireframes
+-
+  time: 19.75
+  task: Paper prototype
+-
+  time: 35.50
+  task: Visuals

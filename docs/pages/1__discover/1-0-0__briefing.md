@@ -24,7 +24,9 @@ Teamleden
 
 Gekozen Museum
 --------------
-#### FOMU - Foto museum Antwerpen
+FOMU - Foto museum in Antwerpen
 
-Wij kozen voor het FOMU foto museum in Antwerpen omdat het eens een museum is dat niet te dicht bij Gent ligt, we hadden deze gekozen omdat we niet hetzelfde wouden als anderen.
+<img src="../../images/fomu_logo_finaal.png">
+
+Wij kozen voor het foto museum in Antwerpen (afgekort FOMU). Fotografie is iets dat ons enorm interesseert. Daarnaast is het een museum met een groot aanbod en een redelijk vast publiek. Hierdoor leek het ons boeiend om hier een app voor te ontwerpen. 
 

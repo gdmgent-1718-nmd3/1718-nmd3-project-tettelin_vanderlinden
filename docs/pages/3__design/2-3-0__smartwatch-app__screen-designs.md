@@ -6,3 +6,6 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+
+<img width="950px" src="../../../images/watch.jpg">
+<img width="950px" src="../../../images/screendesignWatch.jpg">

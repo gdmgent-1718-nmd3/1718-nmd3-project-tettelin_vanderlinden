@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Smartphone-app
 ---
+
+<img width="950px" src="../../images/Smartphone_drie.jpg">

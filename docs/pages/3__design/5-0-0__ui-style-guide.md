@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: UI Style Guide
 ---
+
+<img width="900px" src="../../images/UI.jpg">

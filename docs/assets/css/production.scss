@@ -5,3 +5,30 @@
 @import
   "app/main",
   "production/main";
+
+h1, h2{
+  	font-family: $font;
+    font-weight: bold;
+    color: $primary;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+
+h1{
+  color: $GreenLight;
+  font-weight: bold;
+}
+
+ul{
+	background-color: $GreenLight;
+	padding: 20px;
+  padding-left: 40px;
+}
+
+li{
+	color: $white;
+}
+
+p{
+	font-family: $font;
+}

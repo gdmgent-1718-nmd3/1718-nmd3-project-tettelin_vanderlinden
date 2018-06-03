@@ -6,3 +6,7 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
+
+
+<img width="950px" src="../../images/watch.jpg">
+<img width="950px" src="../../images/vieuwWatch2.jpg">

@@ -10,13 +10,18 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+$primary:    #231F20 !default;
+$GreenLight: #7ACCD9;
+$white: #FFFFFF;
 
 // Fonts
+$font: 'Oxygen';
+
+
 //
 // Font, line-height, and color for body text, headings, and more.
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
 
-$font-family-base: Merriweather, serif;
+$font-family-base: Sans-serif;
