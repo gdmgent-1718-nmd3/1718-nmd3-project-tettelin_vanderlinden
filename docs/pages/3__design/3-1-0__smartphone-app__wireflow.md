@@ -7,4 +7,4 @@ published: true
 title: Wireflow
 ---
 
-<img width="900px" src="../../images/wireflow-sp.jpg">
+<img width="900px" src="../../../images/wireflow-sp.jpg">
